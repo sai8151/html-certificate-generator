@@ -89,7 +89,7 @@ int main(int argc, char *argv[]) {
         //fprintf(output_file, "%s", html_content);
         //fputs(html_content, output_file);
         fclose(output_file);
-    }
+    }//loop
 
     fclose(input_file);
 
