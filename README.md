@@ -8,5 +8,5 @@ We can create n number of certificates in less than few seconds.
 # compilation steps in linux server :
 
 ```
-$gcc cert_v2.c
+$gcc crt_v2.c
 ```
